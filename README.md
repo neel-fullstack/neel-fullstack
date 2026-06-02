@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Neel Udhanawala👋
 
-<!--
-**neel-fullstack/neel-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+## Skills
+- React.js
+- Node.js
+- Express.js
+- .NET MVC
+- SQL Server
+- MongoDB
+- AI Agents
+- RAG
+- Ollama
+- ChromaDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- PALMS AI Chatbot
+- SplitBuddy
+- Car Rental Management System
+- Logistics Website
+
+## Contact
+📧 neeludhanawala27@gmail.com
+
+📍 Surat, Gujarat, India
