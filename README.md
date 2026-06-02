@@ -37,7 +37,7 @@ Tools
 - PALMS AI Chatbot
 - SplitBuddy
 - Car Rental Management System
-- Logistics Website
+- APSL Logistics Website
 
 ## Contact
 📧 neeludhanawala27@gmail.com
