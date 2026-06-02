@@ -2,17 +2,36 @@
 
 AI Developer | Full Stack Developer
 
-## Skills
+## Tech Stack
+
+Frontend
 - React.js
+- HTML5
+- CSS3
+- Bootstrap
+
+Backend
 - Node.js
 - Express.js
 - .NET MVC
+- .NET Web API
+
+Database
 - SQL Server
 - MongoDB
+- ChromaDB
+
+AI
 - AI Agents
 - RAG
 - Ollama
-- ChromaDB
+- LLMs
+
+Tools
+- Git
+- Postman
+- Swagger
+- VS Code
 
 ## Featured Projects
 - PALMS AI Chatbot
